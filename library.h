@@ -7,6 +7,7 @@
 #   define SYMBOL_EXPORT
 #endif
 
+/// \brief Struct containing the sample and the updated phase of a wave type
 typedef struct {
     float sample;
     float phase;
